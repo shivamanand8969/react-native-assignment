@@ -10,7 +10,7 @@ export default function ProductListScreen({ navigation }) {
 
     const renderHeader = () => {
         return (
-            <>
+            <View style={{marginTop:25,padding:20}}>
                 <View style={styles.reviewsContainer}>
                     <Text style={styles.reviewsText}>Reviews</Text>
                     <View style={styles.ratingContainer}>
@@ -37,10 +37,10 @@ export default function ProductListScreen({ navigation }) {
                 </View>
                 <View style={styles.buttonContainer}>
                     <TouchableOpacity style={styles.btnblack}>
-                        <Text style={styles.blackBtnText}>Beginner-Friendly</Text>
+                        <Text style={styles.blackBtnText}>Special Notions Needed</Text>
                     </TouchableOpacity>
                     <TouchableOpacity style={styles.btnblack}>
-                        <Text style={styles.blackBtnText}>Helpful Illustrations</Text>
+                        <Text style={styles.blackBtnText}>Pattern Errors</Text>
                     </TouchableOpacity>
                 </View>
 
@@ -72,7 +72,7 @@ export default function ProductListScreen({ navigation }) {
 
                 </View>
 
-            </>
+            </View>
         )
     }
 
@@ -96,8 +96,7 @@ export default function ProductListScreen({ navigation }) {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        padding: 20,
-        backgroundColor: '#fff',
+        backgroundColor: 'white',
         marginTop: 20,
     
     },
@@ -115,19 +114,21 @@ const styles = StyleSheet.create({
         marginBottom: 20
     },
     image: {
-        width: '22%',
+        width: '24%',
+        height:104,
         borderRadius: 10
     },
     galleryHeading: {
-        fontSize: 14,
-        fontWeight: '700',
+        fontSize: 15,
+        fontWeight: 700,
         color: '#000000',
         fontStyle: 'Poppins'
     },
     seeAllText: {
         fontSize: 12,
         fontWeight: '600',
-        color: '#434343'
+        color: '#434343',
+        fontStyle:'Poppins'
     },
     buttonContainer: {
         marginTop: 10,
@@ -138,14 +139,16 @@ const styles = StyleSheet.create({
     btn: {
         backgroundColor: '#FDEDC3',
         borderRadius: 30,
-        padding: 4,
+        height:23,
         paddingHorizontal: 8,
+        justifyContent:'center'
     },
     btnblack: {
         backgroundColor: 'black',
         borderRadius: 30,
         color: 'white',
-        padding: 4,
+        height:23,
+        justifyContent:'center',
         paddingHorizontal: 8,
     },
     btnText: {
@@ -170,7 +173,7 @@ const styles = StyleSheet.create({
     },
     reviewsText: {
         fontSize: 25,
-        fontWeight: '700',
+        fontWeight: 700,
         color: '#333',
     },
     ratingContainer: {
@@ -178,19 +181,19 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     ratingText: {
-        fontSize: 18,
-        color: '#333',
+        fontSize: 20,
+        color: '#000000',
         marginRight: 5,
+        fontWeight:600
     },
     starIcon: {
-        width: 20,
-        height: 20,
+        width: 25,
+        height: 25,
         tintColor: 'black', // Gold color for the star
     },
     item: {
         //  padding:3,
-        marginBottom: 3,
-        backgroundColor: '#f8f8f8',
+        backgroundColor: 'white',
         borderRadius: 8,
         borderWidth: 1,
         borderColor: '#ddd',
