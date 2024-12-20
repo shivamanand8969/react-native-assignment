@@ -1,0 +1,197 @@
+{
+    "reviews": [
+        {
+            "_id": "6763cf2d9d1a1396f42146a5",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 4,
+            "title": "Great Flower",
+            "description": "Sir, I initially followed the design, but realized I wouldn't meet the deadline if I continued. That's why I adjusted my approach. I'm open to feedback for improvement.",
+            "size": "Medium",
+            "fabricUse": "Cotton",
+            "imageUrls": [
+                "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734594307/mqtclbq0rjd78t81pgh0.jpg",
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734594317/xu8bjne2rtl2ffynkkjy.jpg"
+            ],
+            "isPublic": true,
+            "notWorked": [
+                "Material feels a bit thin",
+                "Color faded after a few washes"
+            ],
+            "worked": [
+                "Comfortable fit",
+                "Good stitching quality"
+            ],
+            "createdAt": "2024-12-19T07:45:49.748Z",
+            "updatedAt": "2024-12-19T12:12:12.428Z",
+            "disLike": [],
+            "like": [
+                "6747fdfddee118c8960382c9"
+            ],
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "shivamanand@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        },
+        {
+            "_id": "6763cf729d1a1396f42146cc",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 4,
+            "title": "Good!",
+            "description": "The flowers I ordered for Mother's Day were beautiful and fragrant. They arrived right on time, and my mom was so happy.",
+            "size": "Medium",
+            "fabricUse": "Cotton",
+            "imageUrls": [
+                "https://t3.ftcdn.net/jpg/06/84/78/46/360_F_684784628_qk7MwA4JviM0En19tKngMsDiXaFiVbmW.jpg",
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734594417/pytuyt3jfyk9ztltjhoe.jpg"
+            ],
+            "isPublic": true,
+            "notWorked": [
+                "Material feels a bit thin",
+                "Color faded after a few washes"
+            ],
+            "worked": [
+                "Comfortable fit",
+                "Good stitching quality"
+            ],
+            "createdAt": "2024-12-19T07:46:58.947Z",
+            "updatedAt": "2024-12-19T07:46:58.947Z",
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "bharat@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        },
+        {
+            "_id": "6763cfa39d1a1396f42146d9",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 4,
+            "title": "Great Product!",
+            "description": "I was skeptical about ordering flowers online, but I was pleasantly surprised! The flowers arrived in great condition and lasted for over a week. ",
+            "size": "Medium",
+            "fabricUse": "Cotton",
+            "imageUrls": [
+                "https://t3.ftcdn.net/jpg/06/95/73/62/360_F_695736208_cs94XL78j67qrNB8RMFHNWxpnb9yY8QF.jpg",
+                "https://t3.ftcdn.net/jpg/06/95/73/62/360_F_695736208_cs94XL78j67qrNB8RMFHNWxpnb9yY8QF.jpg"
+            ],
+            "isPublic": true,
+            "notWorked": [
+                "Material feels a bit thin",
+                "Color faded after a few washes"
+            ],
+            "worked": [
+                "Comfortable fit",
+                "Good stitching quality"
+            ],
+            "createdAt": "2024-12-19T07:47:47.918Z",
+            "updatedAt": "2024-12-19T07:47:47.918Z",
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "mukesh@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        },
+        {
+            "_id": "6763ece56390d9dcffdf6de0",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 3,
+            "title": "this is a great product",
+            "description": "I appreciated how simple this pattern was to follow for the most part, making it a good choice for a beginner like me. However, I found the instructions a bi I appreciated how simple this pattern was to follow for the most part, ",
+            "size": "12 us",
+            "fabricUse": "newona",
+            "imageUrls": [
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734601956/nc25aoraxef29megwvqv.jpg"
+            ],
+            "isPublic": false,
+            "notWorked": [
+                "Pricy",
+                "Limited Sizes",
+                "Special Notions Needed",
+                "Confusing Info"
+            ],
+            "worked": [
+                "Beginner-Friendly",
+                "Affordable",
+                "Size Inclusive",
+                "Helpful Illustrations"
+            ],
+            "createdAt": "2024-12-19T09:52:37.216Z",
+            "updatedAt": "2024-12-19T09:52:37.216Z",
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "dhanush@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        },
+        {
+            "_id": "676421726fc60cbc48fc30cb",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 3,
+            "title": "Loved this pattern ",
+            "description": "Share this  info",
+            "size": "12 inch",
+            "fabricUse": "Gotit",
+            "imageUrls": [
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734615406/kb9vxdmjwnzsfp5kmtn0.jpg",
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734615409/kjdhlfkzxfawfxahgzxl.jpg"
+            ],
+            "isPublic": false,
+            "notWorked": [
+                "Pricy",
+                "Limited Sizes",
+                "Special Notions Needed",
+                "Confusing Info"
+            ],
+            "worked": [
+                "Beginner-Friendly",
+                "Affordable",
+                "Size Inclusive"
+            ],
+            "like": [],
+            "disLike": [],
+            "createdAt": "2024-12-19T13:36:50.910Z",
+            "updatedAt": "2024-12-19T13:36:50.910Z",
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "mohitraj@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        },
+        {
+            "_id": "676424e382797309bd422193",
+            "productRef": "675a77f2bf378b5732937423",
+            "rating": 3,
+            "title": "New review",
+            "description": "I ordered a mixed flower arrangement for my friend’s birthday, and she loved it! The flowers were fresh, and the colors complemented eac",
+            "size": "22 us",
+            "fabricUse": "good",
+            "imageUrls": [
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734616287/vvdliozbag9xznfcy8qy.jpg",
+                "https://res.cloudinary.com/dg2bgnw5r/image/upload/v1734616290/mkgbqb79di106akpb6vd.jpg"
+            ],
+            "isPublic": false,
+            "notWorked": [
+                "Pricy",
+                "Limited Sizes",
+                "Special Notions Needed",
+                "Overly Detailed"
+            ],
+            "worked": [
+                "Beginner-Friendly",
+                "Affordable",
+                "Size Inclusive",
+                "Helpful Illustrations"
+            ],
+            "like": [],
+            "disLike": [],
+            "createdAt": "2024-12-19T13:51:31.546Z",
+            "updatedAt": "2024-12-19T13:51:31.546Z",
+            "userDetails": {
+                "_id": "6747fdfddee118c8960382c9",
+                "email": "soni@gmail.com",
+                "profileImage": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png"
+            }
+        }
+    ]
+}
